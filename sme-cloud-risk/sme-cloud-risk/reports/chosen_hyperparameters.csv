@@ -1,0 +1,4 @@
+model,C,max_depth,min_samples_leaf,max_features,learning_rate,max_leaf_nodes,l2_regularization
+logistic_regression,0.04207988669606638,,,,,,
+random_forest,,13.0,12.0,0.39359671220172154,,,
+gradient_boosting,,,46.0,,0.013118424770919554,9.0,0.049924534169239816
