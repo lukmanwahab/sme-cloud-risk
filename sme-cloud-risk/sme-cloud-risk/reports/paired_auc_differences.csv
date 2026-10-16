@@ -1,3 +1,0 @@
-comparison,auc_difference,ci_low,ci_high,p_share_below_zero
-selected minus random_forest,0.01314814814814802,-0.003219830191868611,0.029011038374331034,0.058
-selected minus gradient_boosting,0.026649029982363293,0.009708111938476371,0.04388098002144907,0.001
